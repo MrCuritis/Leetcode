@@ -7,6 +7,10 @@
 ```bash
 git pull origin main
 ```
+请在提交的同时加上commit message，方便后续查看
+```bash
+git commit -m "[commit message]"
+```
 
 ### 添加文件以markdown文件进行添加
 文件命名为：`[题目编号] + ". " + [题目名称] + ".md"`
